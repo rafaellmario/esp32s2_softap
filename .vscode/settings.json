@@ -1,0 +1,26 @@
+{
+    "idf.espIdfPathWin": "C:/Espressif/frameworks/esp-idf-v5.5/",
+    "idf.toolsPathWin": "C:\\Espressif",
+    "idf.pythonInstallPath": "C:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "files.associations": {
+        "i2c.h": "c",
+        "stdint.h": "c",
+        "ds3231.h": "c",
+        "i2c_master.h": "c",
+        "esp_err.h": "c",
+        "user_gpio.h": "c",
+        "project_def.h": "c",
+        "user_i2c.h": "c",
+        "esp_netif.h": "c",
+        "esp_wifi.h": "c",
+        "esp_event.h": "c",
+        "user_wifi.h": "c",
+        "esp_netif_ip_addr.h": "c",
+        "ip4_addr.h": "c",
+        "esp_mac.h": "c",
+        "project_defs.h": "c",
+        "i2c_types.h": "c"
+    },
+    "idf.portWin": "COM6",
+    "idf.flashType": "UART"
+}

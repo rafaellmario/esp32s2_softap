@@ -1,0 +1,2 @@
+source C:/Users/Rafael/Documents/Espressif/esp32s2/wifi_ap/build/bootloader/gdbinit/symbols
+source C:/Users/Rafael/Documents/Espressif/esp32s2/wifi_ap/build/bootloader/gdbinit/connect
